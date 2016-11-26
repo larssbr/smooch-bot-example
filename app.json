@@ -1,6 +1,6 @@
 {
-  "name": "Smooch Bot Example App",
-  "description": "Smooch Bot example using Express",
+  "name": "giftwise Example App",
+  "description": "giftwise app",
   "keywords": ["smooch", "bot", "express"],
   "website": "https://smooch.io",
   "repository": "https://github.com/smooch/smooch-bot-example",
